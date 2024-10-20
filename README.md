@@ -16,7 +16,7 @@ This program simulates an ATM system that stores account information on a remova
 2. Account Data:
    The program creates a file named `ATM_CARD.txt` on the flash drive to store account information such as account number, PIN, and balance.
    - The file format for account data is:
-     <AccountName>,<AccountNumber>,<PINCode>,<Balance>
+     AccountName,AccountNumber,PINCode,Balance
      Example:
      John Lee,12345,1234,5000
 3. Reading and Writing Data:
